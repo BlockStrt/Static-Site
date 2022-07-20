@@ -10,9 +10,6 @@ Simple advertising page for artist fans to come view an artist social links.
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 <!-- ## Contributing
@@ -37,7 +34,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information. -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -53,12 +49,11 @@ Project Link: [Advertising-Page]()
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+ https://www.markdownguide.org/basic-syntax/#reference-style-links 
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors -->
 <!-- [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
